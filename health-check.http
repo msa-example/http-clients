@@ -1,0 +1,5 @@
+### Api Gateway Health Check
+GET {{base-url}}/actuator/health
+
+### Auth Health Check
+GET {{base-url}}/auth/actuator/health
